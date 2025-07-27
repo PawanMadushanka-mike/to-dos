@@ -1,1 +1,1 @@
-# to-dos
+# my-mern-todo-app
